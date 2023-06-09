@@ -9,3 +9,7 @@
 ## Script :2-groups:
 
  This script prints all the groups the current user is part of.
+
+## Script :3-new_owner`
+
+This script changes the owner of the file "hello" to the user "betty".
