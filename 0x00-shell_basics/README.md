@@ -36,7 +36,9 @@ script that creates a directory named "my_first_directory" in the "/tmp/" direct
 
 This script moves the file "betty" from "/tmp/" to "/tmp/my_first_directory".
 
+## Script: 8-firstdelete
 
+This script deletes the file "betty" located in "/tmp/my_first_directory".
 
 
 
