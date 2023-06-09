@@ -14,3 +14,12 @@ This script displays the contents list of the current directory.
 ## Script : 2. There is no place like home
 
 This script  changes the working directory to the user’s home directory.
+
+## Script : 3-listfiles:
+
+script that displays the contents of the current directory in a long format
+
+
+## Script: 4-listmorefiles
+
+This script displays the contents of the current directory, including hidden files, in a long format.
