@@ -44,3 +44,21 @@ This script deletes the file "betty" located in "/tmp/my_first_directory".
 
 This script deletes the directory "my_first_directory" located in "/tmp".
 
+## Script: 10-back
+
+This script changes the working directory to the previous one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
