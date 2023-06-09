@@ -49,6 +49,23 @@ This script deletes the directory "my_first_directory" located in "/tmp".
 This script changes the working directory to the previous one.
 
 
+## Script: 11-lists
+
+This script lists all files (including hidden files) in the current directory, parent directory, and /boot directory in long format.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
