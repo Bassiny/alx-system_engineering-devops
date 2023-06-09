@@ -32,7 +32,9 @@ This script displays the contents of the current directory in a long format, wit
 
 script that creates a directory named "my_first_directory" in the "/tmp/" directory:
 
+## Script: 7-movethatfile
 
+This script moves the file "betty" from "/tmp/" to "/tmp/my_first_directory".
 
 
 
