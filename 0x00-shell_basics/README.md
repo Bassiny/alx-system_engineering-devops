@@ -40,5 +40,7 @@ This script moves the file "betty" from "/tmp/" to "/tmp/my_first_directory".
 
 This script deletes the file "betty" located in "/tmp/my_first_directory".
 
+## Script: 9-firstdirdeletion
 
+This script deletes the directory "my_first_directory" located in "/tmp".
 
