@@ -58,7 +58,9 @@ This script lists all files (including hidden files) in the current directory, p
 This script prints the type of the file named "iamafile" in the /tmp directory.
 
 
+## Script: 13-symbolic_link
 
+This script creates a symbolic link named "__ls__" in the current working directory, pointing to "/bin/ls".
 
 
 
