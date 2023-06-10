@@ -30,6 +30,10 @@ This script creates an empty file called "hello".
 
 This script adds execute permission to the owner, the group owner, and the other users to the file "hello".
 
+## Script : 8-James_Bond
+
+This script sets the permissions of the file "hello" as follows: owner - no permission, group - no permission, other users - all permissions.
+
 
 
 
