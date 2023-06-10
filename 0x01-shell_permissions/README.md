@@ -26,6 +26,11 @@ This script creates an empty file called "hello".
 
  This script adds execute permission to the owner and the group owner, and read permission to other users, to the file "hello".
 
+## Script : 7-everybody
+
+This script adds execute permission to the owner, the group owner, and the other users to the file "hello".
+
+
 
 
 
