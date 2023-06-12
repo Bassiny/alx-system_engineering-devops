@@ -4,4 +4,8 @@ This script prints "Hello, World" followed by a new line to the standard output.
 
 ## 1-confused_smiley
 
-This script that displays the confused smiley "(Ôo)'"
+this script that displays the confused smiley "(Ôo)'"
+
+## 2-hellofile
+
+this  script that displays the content of the /etc/passwd file 
