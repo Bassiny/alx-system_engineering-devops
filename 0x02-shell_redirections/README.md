@@ -18,6 +18,8 @@ the script that displays the content of both /etc/passwd and /etc/hosts files
 
 the script to display the last 10 lines of the /etc/passwd file
 
-## 
+## 5. I'd prefer the first ones actually
+
+this script to display the first 10 lines of /etc/passwd 
 
 
