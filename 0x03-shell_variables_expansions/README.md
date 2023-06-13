@@ -18,4 +18,8 @@ the script that lists environment variables
 
 the script that creates a new local variable:
 
+## 7. Global variable
+
+the script that creates a new global variable
+
 ##
