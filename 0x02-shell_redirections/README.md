@@ -34,6 +34,10 @@ this script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) wit
 
 the script that creates or overwrites the file ls_cwd_content with the output of the ls -la command
 
+## 9. Duplicate last line
+
+the shell script that duplicates the last line of the file "iacta" in the working directory
+
 
 
 
