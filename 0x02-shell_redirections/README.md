@@ -46,8 +46,9 @@ script that deletes all regular files with a .js extension in the current direct
 
 this script that counts the number of directories and sub-directories in the current directory, excluding the current and parent directories
 
+## 12. What’s new
 
-
+this script that displays the 10 newest files in the current directory
 
 
 
