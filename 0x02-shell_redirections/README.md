@@ -38,6 +38,12 @@ the script that creates or overwrites the file ls_cwd_content with the output of
 
 the shell script that duplicates the last line of the file "iacta" in the working directory
 
+## 10. No more javascript
+
+script that deletes all regular files with a .js extension in the current directory and its subfolders
+
+
+
 
 
 
