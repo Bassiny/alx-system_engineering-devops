@@ -10,4 +10,8 @@ the script that prints "hello user" with the current Linux user
 
 this script add /action to the PATH variable as the last directory
 
-## 
+## 4. Global variables
+
+the script that lists environment variables
+
+##
