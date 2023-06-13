@@ -14,4 +14,8 @@ this script add /action to the PATH variable as the last directory
 
 the script that lists environment variables
 
+## 6. Local variable
+
+the script that creates a new local variable:
+
 ##
