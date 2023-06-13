@@ -26,7 +26,11 @@ this script to display the first 10 lines of /etc/passwd
 
 he script that displays the third line of the file iacta
 
+## 7. It is a good file that cuts iron without making a noise
 
+this script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with the content "Best School" and ending with a new line
+
+##
 
 
 
