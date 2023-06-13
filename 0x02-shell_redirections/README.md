@@ -30,7 +30,9 @@ he script that displays the third line of the file iacta
 
 this script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with the content "Best School" and ending with a new line
 
-##
+## 8. Save current state of directory
+
+the script that creates or overwrites the file ls_cwd_content with the output of the ls -la command
 
 
 
