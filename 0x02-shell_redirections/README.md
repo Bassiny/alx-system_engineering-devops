@@ -42,7 +42,9 @@ the shell script that duplicates the last line of the file "iacta" in the workin
 
 script that deletes all regular files with a .js extension in the current directory and its subfolders
 
+## 11. Don't just count your directories, make your directories count
 
+this script that counts the number of directories and sub-directories in the current directory, excluding the current and parent directories
 
 
 
