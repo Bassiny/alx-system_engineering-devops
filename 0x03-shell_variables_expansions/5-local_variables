@@ -1,2 +1,2 @@
 #!/bin/bash
-set -o posix set | grep -v '^_' declare -F
+set | grep -vE '^(BASH_(ARGC|ARGV|CMDS|LINE[NO]|REMATCH|SOURCE)|COMP_WORDBREAKS|FUNCNAME|\$)' | sort
