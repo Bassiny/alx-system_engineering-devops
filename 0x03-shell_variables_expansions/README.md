@@ -10,9 +10,17 @@ the script that prints "hello user" with the current Linux user
 
 this script add /action to the PATH variable as the last directory
 
+## 3. If the path be beautiful, let us not ask where it leads
+
+This the script to count the number of directories in the PATH variable
+
 ## 4. Global variables
 
 the script that lists environment variables
+
+## 5. Local variables
+
+This is the script that lists all local variables, environment variables, and functions:
 
 ## 6. Local variable
 
