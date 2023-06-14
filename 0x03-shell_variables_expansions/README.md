@@ -34,7 +34,12 @@ the script that creates a new global variable
 
 thi is the  script that prints all possible combinations of two letters, except oo
 
+## 14. Decimal to Hexadecimal
+
+This is the script that converts a number from base 10 to base 16
+
 ##
+
 
 
 
