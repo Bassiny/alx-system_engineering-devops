@@ -30,4 +30,12 @@ the script that creates a new local variable:
 
 the script that creates a new global variable
 
+## 12. Combination
+
+thi is the  script that prints all possible combinations of two letters, except oo
+
 ##
+
+
+
+
