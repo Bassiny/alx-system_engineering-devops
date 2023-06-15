@@ -83,8 +83,11 @@ Replace all characters A and c from input to Z and e respectively.
 
 this script that removes all letters c and C from input.
 
-##
+## 21. esreveR
 
+this script that reverse its input.
+
+##
 
 
 
